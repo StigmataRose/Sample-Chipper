@@ -1,0 +1,15 @@
+# 3rd-party code
+JuceLibraryCode
+
+# C++ build files
+Builds
+*.o
+
+# IDE settings
+.vscode
+
+# macOS installer build files
+build
+
+# macOS cruft
+.DS_Store
