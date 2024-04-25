@@ -2,7 +2,7 @@
 
 This project is used to drag and drop samples with tags and convert to a spectrogram .png with tags.
 
-![Alt Text](https://github.com/StigmataRose/Sample-Chipper/blob/main/Source/samplechipper.png?raw=true)
+![Alt Text](https://github.com/StigmataRose/Sample-Chipper/blob/main/Source/FFT.png?raw=true)
 
 
 ## To Do
